@@ -315,19 +315,19 @@ annotations:
     reference: ''
     span:
       start: 57906
-      end: 59310
+      end: 59309
   f8d1353ea9ba4acd853d7a1573a8a610:
     imgnum: 458
     reference: ''
     span:
-      start: 59312
-      end: 61110
+      start: 59311
+      end: 61109
   b292b51e279d46b9a136a9a3836d371f:
     imgnum: 459
     reference: ''
     span:
-      start: 61112
-      end: 61967
+      start: 61111
+      end: 61966
 local_ids:
   b63069d92e4c4bd1b104b6419cf42cb8: 200000
   8a24dbfbe1784698b14f8400544647f9: 200001
